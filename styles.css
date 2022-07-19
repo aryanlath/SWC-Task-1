@@ -1,0 +1,51 @@
+.vl1{
+    border-left: 1px solid #D4DADF;
+    height: 30px;
+    position: absolute;
+    left: 22.3%;
+    margin-left: -3px;
+    top: 5;
+}
+
+.vl2{
+    border-right: 1px solid #D4DADF;
+    height: 30px;
+    position: absolute;
+    right: 17%;
+    margin-right: -3px;
+    top: 5;
+}
+
+.ic{
+    
+    position: absolute;
+    margin-right: -3px;
+    right: 14%;
+    height: 13px;
+    width: 13px;
+    top: 40%;
+}
+
+.vl3{
+    border-left: 1px solid #D4DADF;
+    height: 1000px;
+    position: relative;
+    left: 30%;
+    top:
+}
+
+.vector{
+    height:30px;
+    width:30px;
+    position:relative;
+    margin-left:80px;
+    margin-bottom:20px;
+}
+
+.vector2{
+    height:30px;
+    width:30px;
+    position:relative;
+    margin-left:20px;
+    margin-bottom:20px;
+}
